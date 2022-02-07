@@ -18,8 +18,7 @@ while cont > 0:
     else:
         if chute > numeroSecreto:
             print("O número informado é maior que o número secreto")
-        else:
-            if chute < numeroSecreto:
+        elif chute < numeroSecreto:
                 print("O número informado é menor que o número secreto")
             else:
                 print("Parabens!! Voce acertou o número secreto")
