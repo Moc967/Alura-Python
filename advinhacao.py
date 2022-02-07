@@ -8,6 +8,7 @@ print("\nVocê terá cinco chances de acertar o número sorteado.\nBoa sorte!!\n
 rodada = 1
 max_range = 0
 total_de_tentativas = 0
+pontos = 1000
 
 print("Selecione o grau de dificuldade desejado:\n")
 print("1 - Baixo\n2 - Médio\n3 - Alto")
@@ -39,12 +40,15 @@ while rodada <= total_de_tentativas:
         continue
     if chute2 > numero_secreto:
         print("O número informado é maior que o número secreto")
+        pontos = pontos - (chute2 - numero_secreto)
     elif chute2 < numero_secreto:
         print("O número informado é menor que o número secreto")
+        pontos = pontos - (numero_secreto - chute2)
     else:
-        print("Parabens!! Voce acertou o número secreto")
+        print('Parabens!! Voce acertou o número secreto e marcou', pontos, 'pontos')
+        print("\n***** Fim do Jogo!!! *****")
         break
-    if rodada == 6:
-        print("\nVoce realizou todas as tentativas e não acertou o número secreto.")
+    if rodada > total_de_tentativas:
+        print("\nVoce realizou todas as tentativas e não acertou o número secreto, marcando 0 pontos.")
     else:
         print("Tente novamente\n")
