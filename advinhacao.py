@@ -1,5 +1,6 @@
 import random
 
+
 def jogar():
     print("*** Bem vindo ao jogo de Advinhação ***")
     print("***************************************")
@@ -53,3 +54,7 @@ def jogar():
             print("\nVoce realizou todas as tentativas e não acertou o número secreto, marcando 0 pontos.")
         else:
             print("Tente novamente\n")
+
+
+if __name__ == "__main__":
+    jogar()
