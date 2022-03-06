@@ -2,7 +2,8 @@
 
 <p>Antes de iniciar o treinamento e exercícios, é necessário configurar o ambiente com o Jupyter Notebook e Python. 
 O procedimento a seguir é uma sugestão para uso do ambiente utilizando o software Anaconda, que irá instalar diversos 
-pacotes, incluindo o Jupyter Notebook.</p>
+pacotes, incluindo o Jupyter Notebook. Particularmente eu preferi uutilizar o Jupter Notebook através do VS Code, por se mostrar mais flexível e prático.</p>
+
 <ol>
 <li>Instalar o Anaconda</li>
   
