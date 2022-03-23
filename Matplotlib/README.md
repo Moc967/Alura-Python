@@ -6,8 +6,20 @@
 ---
 Este repositório contem as atividades desenvolvidas ao longo do treinamento <i>**Data Visualization: criação de gráficos com o Matplotlib** </i>,  promovido pela Alura e Grupo Boticário.
 
-``` 
-```
+---
+
+<h2> Gráfico Variação de Temperatura - Estação Meteorológica</h2> 
 
 <img src="img/temperatura.png" alt="Temperatura">
 
+---
+
+<h2> Gráfico de Dispersão - Tamanhos Pétala e Sépula</h2> 
+
+<img src="img/botanica.png" alt="Botanica">
+
+---
+
+<h2> Histogramas</h2> 
+
+<img src="img/combinada.png" alt="Botanica">
