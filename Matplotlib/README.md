@@ -1,19 +1,13 @@
-# Matpltlib Labs
+<h1 align="center", b>Matplotlib Labs</h2></b>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
-
+![Python](https://img.shields.io/badge/Python-094782?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-002050?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-gray?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+---
 Este repositório contem as atividades desenvolvidas ao longo do treinamento <i>**Data Visualization: criação de gráficos com o Matplotlib** </i>,  promovido pela Alura e Grupo Boticário.
 
-|ReadTheDocs| |Discourse| |Codestyle|
+``` 
+```
 
-.. |ReadTheDocs| image:: https://readthedocs.org/projects/cpython-devguide/badge/
-   :target: https://devguide.python.org
-   :alt: Documentation Status
+<img src="img/temperatura.png" alt="Temperatura">
 
-.. |Discourse| image:: https://img.shields.io/badge/discourse-join_chat-brightgreen.svg
-   :alt: Python Discourse chat
-   :target: https://discuss.python.org/
-
-.. |Codestyle| image:: https://img.shields.io/badge/code%20style-black-000000.svg
-   :target: https://github.com/psf/black
-   :alt: Code style is black
