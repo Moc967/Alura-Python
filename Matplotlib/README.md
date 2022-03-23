@@ -20,6 +20,6 @@ Este repositório contem as atividades desenvolvidas ao longo do treinamento <i>
 
 ---
 
-<h2> Histogramas</h2> 
+<h2> Histogramas de Iris </h2> 
 
 <img src="img/combinada.png" alt="Botanica">
