@@ -33,6 +33,6 @@ Para maiores informações sobre os recursos deste framework, veja por favor o l
 
 <img src="img/gorjeta-por-dia-semana.jpg" alt="Gorjeta na Semana">
 
-<h2> Gráficos Valor da conta por hora do dia </h2> 
+<h2> Gráficos valor da conta por hora do dia </h2> 
 
 <img src="img/violinplot.jpg" alt="Gorjeta na Semana">
